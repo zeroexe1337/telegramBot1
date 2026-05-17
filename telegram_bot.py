@@ -7,7 +7,7 @@ from telebot import types
 # ─── KONFIGURACJA ──────────────────────────────────────────────────
 BOT_TOKEN = "8850495118:AAFEHfuZC9M_ZUpDSR1Sdbd-ljcwS6fz0b8"
 
-TWOJ_TELEGRAM = "@twoj_nick"
+TWOJ_TELEGRAM = "@PaulinaKoch_xoxo"
 
 LINK_PLATNOSCI_BLIK    = "Przelew BLIK na numer: 796066335"
 LINK_PLATNOSCI_PAYPAL  = "https://paypal.me/twojlink"
